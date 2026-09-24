@@ -6,7 +6,6 @@ Landing page da Mara Bösing - Beleza e Spa.
 
 - `Mara Bösing - Beleza & Spa.html`: página responsiva da landing page.
 - `assets-clean/`: imagens utilizadas pela página.
-- `Mara Bösing - Apresentação.pdf`: versão da página formatada para apresentação.
 
 ## Visualização local
 

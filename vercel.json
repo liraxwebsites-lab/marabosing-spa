@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Mara Bösing - Beleza & Spa.html"
+    }
+  ]
+}
